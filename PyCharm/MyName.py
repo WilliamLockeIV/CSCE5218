@@ -1,1 +1,0 @@
-print('William Alexander Locke IV')
